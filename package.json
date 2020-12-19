@@ -1,0 +1,25 @@
+{
+  "name": "minerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/miner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoHacksLegit/Miner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoHacksLegit/Miner/issues"
+  },
+  "homepage": "https://github.com/NoHacksLegit/Miner#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "klasa": "^0.5.0"
+  }
+}
